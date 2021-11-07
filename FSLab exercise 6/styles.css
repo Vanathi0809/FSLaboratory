@@ -1,0 +1,7 @@
+.Image img
+{
+width:150px;
+height:150px;
+border-radius:50%;
+border:2px solid grey;
+}
